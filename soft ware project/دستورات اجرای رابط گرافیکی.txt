@@ -1,0 +1,3 @@
+cd "C:\Users\Faizi\OneDrive\Documents\soft ware project"
+python -m streamlit run todo_app.py
+streamlit run todo_app.py
